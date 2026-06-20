@@ -1,5 +1,3 @@
 hello 
 I am Subiksha 
-i have completed ece
-now im here to learn embedded systems
-today is my third day 
+ 
